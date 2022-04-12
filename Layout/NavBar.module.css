@@ -1,0 +1,12 @@
+.list{
+    display: flex;
+    list-style-type: none;
+    padding-left: 510px;
+    border: 2px solid;
+    background-color:cornsilk;
+}
+
+.item{
+    margin-right:1em;
+    
+}
